@@ -2,7 +2,7 @@
 
 This repository contains an implementation of the decision tree algorithm with banknote authentication. The project creates different trees in which they have different parameters such as criterion, max_depth, min_samples_split.
 
-Each tree has their own classification report and confusion matrix to visualize the effect of each parameter on model. Lastly, it contains feature importance. Each block of code is explained in detail in the notebook.
+Each tree has their own classification report and confusion matrix to visualize the effect of each parameter on model. Lastly, it contains feature importance. Each block of code in the notebook is explained in detail.
 
 
 ## Files
